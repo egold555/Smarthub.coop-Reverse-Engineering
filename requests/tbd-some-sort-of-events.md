@@ -2,7 +2,7 @@
 Some sort of event retriever?
 ```
 Method: GET
-URL: /services/secured/courier/event/mobile/ericgolde555@gmail.com?modifiedAfterDate=1675903442571
+URL: /services/secured/courier/event/mobile/email@gmail.com?modifiedAfterDate=1675903442571
 Requires Auth: Yes
 ```
 
